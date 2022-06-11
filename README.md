@@ -77,7 +77,7 @@ echo "/bin/ls" | ./hsh (Example 2).
 
 **TEAM MEMBERS**
 
-Team members that contrabuted to this project:
+Team members that contributed to this project:
 
-* Jedidah Gichuhi <jeddymweru@gmail.com>
-* Eugene Mukuna <mukuna.eugene@gmail.com>
+* Eugene Mukuna <[Emukus](https://github.com/Emukus)>
+* Jedidah Gichuhi <[JeddyM](https://github.com/JeddyM)>
