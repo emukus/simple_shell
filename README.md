@@ -9,6 +9,7 @@ This project is a simpler version of the linux shell. It deals the essential par
 
 ### **Technologies and Concepts**
 - C.
+- Vim
 - Linux (Ubuntu 20.04 LTS).
 
 ### **CREATION**
