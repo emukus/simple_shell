@@ -80,5 +80,5 @@ echo "/bin/ls" | ./hsh (Example 2).
 
 Team members that contributed to this project:
 
-* Eugene Mukuna <[Emukus](https://github.com/Emukus)>
-* Jedidah Gichuhi <[JeddyM](https://github.com/JeddyM)>
+* Eugene Mukuna
+* Jedidah Gichuhi
